@@ -1,7 +1,7 @@
 # Pygame Projects
 1. Tom and Jerry
 
-<img src="readme_images/tom_and_jerry.png" >
+<img src="readme_images/tomandjerry.png" >
 
   - As we see in the Tom and Jerry cartoon, Tom tries to catch Jerry in the game. Tom is falling from sky randomly to catch Jerry.
   - Jerry can only move to left and right to run away from Tom.
